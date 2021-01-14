@@ -1,6 +1,6 @@
-### Hi there 👋
+## Hi there 👋
 
-# I'm Jeff, I hope you like the profile, feel free.
+### I'm Jeff, I hope you like the profile, feel free.
 
 If you want to exchange an idea just call.
 
@@ -13,9 +13,9 @@ If you want to exchange an idea just call.
 ## Github Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=azotief&show_icons=true&theme=tokyonight&count_private=true&hide=issues&card_width=500">
+  <img src="https://github-readme-stats.vercel.app/api?username=jefferssonsemin&show_icons=true&theme=tokyonight&count_private=true&hide=issues&card_width=500">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azotief&theme=tokyonight&card_width=495">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jefferssonsemin&theme=tokyonight&card_width=495">
 </p>
