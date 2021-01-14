@@ -1,16 +1,21 @@
 ### Hi there 👋
 
-<!--
-**JefferssonSemin/jefferssonSemin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# I'm Jeff, I hope you like the profile, feel free.
 
-Here are some ideas to get you started:
+If you want to exchange an idea just call.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My jobs and studies
+
+- 🔭 I'm currently working at Havan as a mobile developer
+- 🌱 I'm currently learning about testing, software quality. Android and ios development too
+
+
+## Github Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=azotief&show_icons=true&theme=tokyonight&count_private=true&hide=issues&card_width=500">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azotief&theme=tokyonight&card_width=495">
+</p>
