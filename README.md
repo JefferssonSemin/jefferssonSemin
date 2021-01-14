@@ -12,7 +12,7 @@ If you want to exchange an idea just call.
 
 ## Github Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jefferssonsemin&show_icons=true&theme=tokyonight&count_private=true&hide=issues&card_width=500">
-</p>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=jefferssonsemin&show_icons=true&theme=radical&count_private=true&hide=issues&card_width=500">
+
 
