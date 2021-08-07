@@ -6,8 +6,8 @@ If you want to exchange an idea just call.
 
 ## My jobs and studies
 
-- 🔭 I'm currently working at Havan as a mobile developer
-- 🌱 I'm currently learning about testing, software quality. Android and IOS development too
+- 🔭 I'm currently working at Havan as a tech leader
+- 🌱 I'm currently learning about backend, software quality. Android and IOS development too
 
 
 ## Github Stats
